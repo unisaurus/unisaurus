@@ -1,4 +1,4 @@
-- 👋🦄🦖 Hi, I’m @unisaurus
+- 🦄🦖 Hi, I’m @unisaurus
 - 🔗🖥 I’m interested in learning technical skills pertaining to blockchain technology 
 - 🌱💸 I’m currently learning about how to be the bank through DeFi
 - 🏦 I’m looking to collaborate on creating banking services on the blockchain to provide more access to more business' and people on the planet
